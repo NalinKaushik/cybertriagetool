@@ -1,0 +1,1815 @@
+[
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Disk Almost Full",
+        "severity": 91.2
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 3760,
+            "remote_ip": "104.192.108.79",
+            "remote_port": 80
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "104.22.52.86",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "104.18.32.47",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "104.18.38.208",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "34.107.165.188",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.194.46",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.171.116",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.232",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "182.161.73.136",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 9668,
+            "remote_ip": "104.18.63.125",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.206.138",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64373
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64152
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.206.138",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 13044,
+            "remote_ip": "52.168.117.174",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "104.22.52.86",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.251.175.188",
+            "remote_port": 5228
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "182.161.73.136",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 16356,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.171.116",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 5104,
+            "remote_ip": "4.213.25.241",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "108.158.224.107",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "108.158.224.107",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.171.53",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "35.244.144.25",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.232",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.194.46",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 9668,
+            "remote_ip": "216.239.34.178",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "182.161.73.136",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "3.164.182.75",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "182.161.73.136",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64144
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.142.2",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "35.244.144.25",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "96.17.194.243",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:32.326285",
+        "type": "New User Created",
+        "severity": 80,
+        "details": {
+            "new_user": "ACER"
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Disk Almost Full",
+        "severity": 91.2
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 3760,
+            "remote_ip": "104.192.108.79",
+            "remote_port": 80
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "104.22.52.86",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "104.18.32.47",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "104.18.38.208",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "34.107.165.188",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.194.46",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "182.161.73.136",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 9668,
+            "remote_ip": "104.18.63.125",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.206.138",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64373
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64152
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 13044,
+            "remote_ip": "52.168.117.174",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.251.175.188",
+            "remote_port": 5228
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 16356,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.171.116",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 5104,
+            "remote_ip": "4.213.25.241",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "108.158.224.107",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "108.158.224.107",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.171.53",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "35.244.144.25",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.232",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.194.46",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 9668,
+            "remote_ip": "216.239.34.178",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "3.164.182.75",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "182.161.73.136",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64144
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.142.2",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "35.244.144.25",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:42.598252",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "96.17.194.243",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Disk Almost Full",
+        "severity": 91.2
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 3760,
+            "remote_ip": "104.192.108.79",
+            "remote_port": 80
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "104.22.52.86",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "104.18.32.47",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "34.107.165.188",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.194.46",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "182.161.73.136",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 9668,
+            "remote_ip": "104.18.63.125",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.206.138",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64373
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64152
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 13044,
+            "remote_ip": "52.168.117.174",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.251.175.188",
+            "remote_port": 5228
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 16356,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.171.116",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 5104,
+            "remote_ip": "4.213.25.241",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "108.158.224.107",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "108.158.224.107",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.171.53",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "35.244.144.25",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.232",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.194.46",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 9668,
+            "remote_ip": "216.239.34.178",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "3.164.182.75",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "182.161.73.136",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64144
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.142.2",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "35.244.144.25",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 03:59:52.062141",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "96.17.194.243",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Disk Almost Full",
+        "severity": 91.2
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 3760,
+            "remote_ip": "104.192.108.79",
+            "remote_port": 80
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "104.22.52.86",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "104.18.32.47",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "34.107.165.188",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.194.46",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "182.161.73.136",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 9668,
+            "remote_ip": "104.18.63.125",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.206.138",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "23.11.235.91",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64373
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 2140,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "23.11.235.49",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64152
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 13044,
+            "remote_ip": "52.168.117.174",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.251.175.188",
+            "remote_port": 5228
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 16356,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64092
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.171.116",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 5104,
+            "remote_ip": "4.213.25.241",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "108.158.224.107",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "108.158.224.107",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.171.53",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "35.244.144.25",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.232",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.77.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.194.46",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "142.250.207.197",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 9668,
+            "remote_ip": "216.239.34.178",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "3.164.182.75",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "182.161.73.136",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 12948,
+            "remote_ip": "127.0.0.1",
+            "remote_port": 64144
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "54.192.142.2",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "35.244.144.25",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:01.518570",
+        "type": "Suspicious Network Connection",
+        "severity": 85,
+        "details": {
+            "pid": 20640,
+            "remote_ip": "96.17.194.243",
+            "remote_port": 443
+        }
+    },
+    {
+        "timestamp": "2025-04-29 04:00:11.132567",
+        "type": "Disk Almost Full",
+        "severity": 91.2
+    }
+]
